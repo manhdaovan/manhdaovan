@@ -1,4 +1,4 @@
-Inspired by https://handbook.gitlab.com/handbook/engineering/readmes/andras-horvath/, customized for myself (a backend engineer).
+iInspired by https://handbook.gitlab.com/handbook/engineering/readmes/andras-horvath/, customized for myself (a backend engineer).
 
 ## Dao Van Manh's README
 
@@ -64,7 +64,8 @@ better. If _you got this_ and want me to step back, please let me know, no
 offense will be taken.
 - Feel free to book any empty slot on my calendar if you have anything to discuss. Please share me the context or documents for the meeting in advance if things are complicated.
 - Feel free to ping me (both DM or mentioning in any channel) for quick discuss, or anything you think it no needs to have a meeting. 
-
+- Please use sentences that are short, simple and direct to the point. As mentioned earlier, English is not my native language, so I would like to avoid any misunderstanding while communicating.
+ 
 ## More ways to get in touch
 
 - // TODO
