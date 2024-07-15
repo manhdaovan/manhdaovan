@@ -1,4 +1,4 @@
-Inspired by https://handbook.gitlab.com/handbook/engineering/readmes/andras-horvath/, customized for myself.
+Inspired by https://handbook.gitlab.com/handbook/engineering/readmes/andras-horvath/, customized for myself (a backend engineer).
 
 ## Dao Van Manh's README
 
@@ -13,17 +13,16 @@ Please feel free to contribute to it by opening a merge request.
 
 ## Values
 
-I moved into management/leadership because I care that people around me can
-work happily, progress towards their own goals and those of the company.
+I moved into backend because I care that things submitted from clients can be verified, modified and worked here. That means I have to understand the business logics, also the big picture of the whole system.
 
-I value _openness, honesty and trust_, and I will give you mine.
+I value _openness, ownership, and trust_, and I will give you mine.
 
-I believe in making a difference through the [servant
-leader](https://en.wikipedia.org/wiki/Servant_leadership) model. My success is
-defined as that of my team, as individuals and as organization.
-
-I value and welcome _diversity of thought_, and not all ideas need to be good
+For _openness_, I value and welcome _diversity of thought_, and not all ideas need to be good
 ones either. We're still all better off discussing them than not.
+
+For _ownership_, I believe that ownership makes us to think about the work carefully, and take the quick action without hesitance.
+
+For _trust_, I believe that only trust can makes us work together in long time. The relationship bases on trust are very solid, and it demands both to believe in each others. 
 
 ## My communication style
 
