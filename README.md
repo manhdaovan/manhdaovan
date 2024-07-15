@@ -1,4 +1,4 @@
-iInspired by https://handbook.gitlab.com/handbook/engineering/readmes/andras-horvath/, customized for myself (a backend engineer).
+Inspired by https://handbook.gitlab.com/handbook/engineering/readmes/andras-horvath/, customized for myself (a backend engineer).
 
 ## Dao Van Manh's README
 
