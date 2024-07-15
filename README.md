@@ -68,4 +68,4 @@ offense will be taken.
  
 ## More ways to get in touch
 
-- // TODO
+- Maybe you just file an issue on this repository is enough for first step. We can exchange the info for deeper discussion if things go further. 
