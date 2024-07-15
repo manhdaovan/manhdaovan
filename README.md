@@ -41,18 +41,11 @@ includes telling me how _you_ like your communications!
 wanted my attention: is there an _action_ I should take?
 
 - I still _care_, I just need my notes. Please remind me if I forgot a detail
-  :-/
-
-- Consider sending [360
-  feedback](https://about.gitlab.com/handbook/business-technology/tech-stack/#cultureamp)
-  my way through CultureAmp
-
-- Seriously, I read and appreciate [anonymous
-  feedback](https://docs.google.com/forms/d/e/1FAIpQLSe1JsEAp7gzUnzeVZpPOeP9LbNJ1b562Admkz5G3HgY4N9PmQ/viewform)
+  :-/ 
 
 ### Informal coffee chats
 
-I'm a fan! [Schedule](https://calendly.com/andrashorvath) a coffee meeting so
+I'm a fan! Schedule a coffee meeting so
 we can understand each other better.  All free slots in my calendar are fair
 game. I also welcome meeting in person.
 
