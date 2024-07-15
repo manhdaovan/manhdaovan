@@ -1,12 +1,12 @@
-## Andras Horvath's README
+Inspired by https://handbook.gitlab.com/handbook/engineering/readmes/andras-horvath/, customized for myself.
 
-Hi, I'm [Andras](https://about.gitlab.com/company/team/#andrashorvath),
-Engineering Manager for Gitaly. I'm in Zurich, Switzerland.
+## Dao Van Manh's README
 
-In previous decades, I had worked as an engineer for [CERN](http://home.cern)
-and [SRE](http://sre.google) (then later SRE manager) for Google, where my team
-ran the largest email system on the planet. I'm a Systems Engineer and I have a
-passion for creating clean architectures and making people happy.
+Hi, I'm Dao Van "Dan" Manh. Please call me "Dan" for short.
+I'm living at Tokyo, Japan.
+
+In previous decade, I had worked as a backend engineer (mostly) Japanese companies, where I focused on Fintech domain, especially payment systems. I have a
+passion for creating clean architectures and making things work (then making people happy).
 
 This page describes the most efficient ways to work with me.
 Please feel free to contribute to it by opening a merge request.
