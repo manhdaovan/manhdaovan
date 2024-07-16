@@ -9,7 +9,7 @@ In previous decade, I had worked as a backend engineer (mostly) Japanese compani
 passion for creating clean architectures and making things work (then making people happy).
 
 This page describes the most efficient ways to work with me.
-Please feel free to contribute to it by opening a merge request.
+Please feel free to contribute to it by opening a pull request.
 
 ## Values
 
